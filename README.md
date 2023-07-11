@@ -1,11 +1,17 @@
-### Hi there, My name is Nawid 👋
+### Hi there, It's Nawid 👋
 
 I am currently a senior undergraduate computer engineering student at Shahid Beheshti University, Tehran, Iran.
 
 I'm Interested in ```Data Analysis``` and ```Machine learning``` and I'm currently learning them, also, I'm a Front-end developer who loves:
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/nawidadkhah?tab=repositories">
     <img src="https://skillicons.dev/icons?i=react,flutter" />
+  </a>
+</p>
+And the other skills:
+<p align="center">
+  <a href="https://github.com/nawidadkhah?tab=repositories">
+    <img src="https://skillicons.dev/icons?i=idea,java,androidstudio,dart,c,cpp,linux,css,html,js,wordpress,postman,py,vscode" />
   </a>
 </p>
 
