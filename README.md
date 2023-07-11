@@ -1,4 +1,4 @@
-### Hi there, It's Nawid 👋
+### Hi there, It's Nawid  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
 I am currently a senior undergraduate computer engineering student at Shahid Beheshti University, Tehran, Iran.
 
