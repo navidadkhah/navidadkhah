@@ -1,6 +1,6 @@
 ### Hi there, My name is Nawid 👋
 
-I am currently a senior undergraduate computer engineering student at Shahid Beheshti University, Tehran, Iran. Interested in **Data Analysis** and **Machine learning** and I'm currently learning them also, I'm a front-end developer who loves:
+I am currently a senior undergraduate computer engineering student at Shahid Beheshti University, Tehran, Iran. Interested in ``` Data Analysis``` and ```Machine learning``` and I'm currently learning them also, I'm a Front-end developer who loves:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,flutter" />
