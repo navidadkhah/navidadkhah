@@ -11,7 +11,7 @@ I'm Interested in ```Data Analysis``` and ```Machine learning``` and I'm current
 And the other skills:
 <p align="center">
   <a href="https://github.com/nawidadkhah?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=idea,java,androidstudio,dart,c,cpp,linux,css,html,js,wordpress,postman,py,vscode" />
+    <img src="https://skillicons.dev/icons?i=idea,java,androidstudio,dart,c,cpp,linux,css,html,js,wordpress,postman,django,py,vscode" />
   </a>
 </p>
 
