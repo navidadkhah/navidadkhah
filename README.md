@@ -16,7 +16,7 @@ And the other skills:
 </p>
 
 ## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawidadkhah&hide_progress=true&theme=highcontrast)](https://github.com/nawidadkhah?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navidadkhah&hide_progress=true&theme=highcontrast)](https://github.com/navidadkhah?tab=repositories)
 
 
 
