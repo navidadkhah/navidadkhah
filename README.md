@@ -4,13 +4,13 @@ I am currently a senior undergraduate computer engineering student at Shahid Beh
 
 I'm Interested in ```Data Analysis``` and ```Machine learning``` and I'm currently learning them, also, I'm a Front-end developer who loves:
 <p align="center">
-  <a href="https://github.com/nawidadkhah?tab=repositories">
+  <a href="https://github.com/navidadkhah?tab=repositories">
     <img src="https://skillicons.dev/icons?i=react,flutter" />
   </a>
 </p>
 And the other skills:
 <p align="center">
-  <a href="https://github.com/nawidadkhah?tab=repositories">
+  <a href="https://github.com/navidadkhah?tab=repositories">
     <img src="https://skillicons.dev/icons?i=idea,java,androidstudio,dart,c,cpp,linux,css,html,js,wordpress,postman,django,py,vscode" />
   </a>
 </p>
