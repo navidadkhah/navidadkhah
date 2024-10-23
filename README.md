@@ -32,7 +32,7 @@ AI-related skills
     </p>
 )
 
-## Languages
+## 📈 My Github stats 
 
 <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=navidadkhah&show_icons=true" alt="navidadkhah" />
