@@ -2,7 +2,27 @@
 
 I am a senior undergraduate student in Computer Engineering at **Shahid Beheshti University, Tehran, Iran.**
 
-My primary interests in ```Natural Language Processing``` and ```Large Language Models```, which I am currently exploring and learning more about.
+My primary interests are in ``` Natural Language Processing``` and ```Large Language Models```, which I am currently exploring and learning more about.
+
+Programming Languages
+
+    Python
+    Java
+    Javascript
+    Dart
+    C++
+    Hardware description languages (VHDL, Verilog, Assembly)
+
+AI-related skills
+
+    Numpy
+    Pandas
+    OpenCV
+    Scipy
+    TensorFlow and Keras
+    NLTK
+    PyTorch
+
 
 [comment]: <> (And The other skills:
     <p align="center">
