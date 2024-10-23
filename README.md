@@ -6,22 +6,22 @@ My primary interests are in ``` Natural Language Processing``` and ```Large Lang
 
 Programming Languages
 
-    Python
-    Java
-    Javascript
-    Dart
-    C++
-    Hardware description languages (VHDL, Verilog, Assembly)
+- Python
+- Java
+- Javascript
+- Dart
+- C++
+- Hardware description languages (VHDL, Verilog, Assembly)
 
 AI-related skills
 
-    Numpy
-    Pandas
-    OpenCV
-    Scipy
-    TensorFlow and Keras
-    NLTK
-    PyTorch
+- Numpy
+- Pandas
+- OpenCV
+- Scipy
+- TensorFlow and Keras
+- NLTK
+- PyTorch
 
 
 [comment]: <> (And The other skills:
@@ -33,8 +33,11 @@ AI-related skills
 )
 
 ## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navidadkhah&hide_progress=true&theme=highcontrast)](https://github.com/navidadkhah?tab=repositories)
 
+<p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=navidadkhah&show_icons=true" alt="navidadkhah" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navidadkhah&hide_progress=true&theme=highcontrast" alt="navidadkhah" width="400">
+</p>
 
 
 <!--
