@@ -1,19 +1,16 @@
 ### Hi there, It's Nawid  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
-I am currently a senior undergraduate computer engineering student at Shahid Beheshti University, Tehran, Iran.
+I am a senior undergraduate student in Computer Engineering at **Shahid Beheshti University, Tehran, Iran.**
 
-I'm Interested in ```Data Analysis``` and ```Machine learning``` and I'm currently learning them, also, I'm a Front-end developer who loves:
-<p align="center">
-  <a href="https://github.com/navidadkhah?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=react,flutter" />
-  </a>
-</p>
-And the other skills:
-<p align="center">
-  <a href="https://github.com/navidadkhah?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=idea,java,androidstudio,dart,c,cpp,linux,css,html,js,wordpress,postman,django,py,vscode" />
-  </a>
-</p>
+My primary interests in ```Natural Language Processing``` and ```Large Language Models```, which I am currently exploring and learning more about.
+
+[comment]: <> (And The other skills:
+    <p align="center">
+      <a href="https://github.com/navidadkhah?tab=repositories">
+        <img src="https://skillicons.dev/icons?i=py,idea,java,androidstudio,dart,c,cpp,linux,css,html,js,postman,django,vscode" />
+      </a>
+    </p>
+)
 
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navidadkhah&hide_progress=true&theme=highcontrast)](https://github.com/navidadkhah?tab=repositories)
