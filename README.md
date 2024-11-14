@@ -15,7 +15,7 @@ My primary interests are in ``` Natural Language Processing``` and ```Large Lang
 |                 C++                   |       TensorFlow and Keras        |
 |    VHDL (Hardware Description)        |               NLTK                |
 | Verilog (Hardware Description)        |              PyTorch              |
-|               Assembly                |                                   |
+|               Assembly                |              Selenium             |         |
 
 </div>
 
@@ -32,8 +32,8 @@ My primary interests are in ``` Natural Language Processing``` and ```Large Lang
 ## 📈 My Github stats 
 
 <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=navidadkhah&show_icons=true" alt="navidadkhah" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navidadkhah&hide_progress=true&theme=highcontrast" alt="navidadkhah" width="400">
+    <img src="https://github-readme-stats.vercel.app/api?username=navidadkhah&theme=blueberry&show_icons=true" alt="navidadkhah" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navidadkhah&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="navidadkhah" width="300">
 </p>
 
 
