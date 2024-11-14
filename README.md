@@ -4,24 +4,21 @@ I am a senior undergraduate student in Computer Engineering at **Shahid Beheshti
 
 My primary interests are in ``` Natural Language Processing``` and ```Large Language Models```, which I am currently exploring and learning more about.
 
-Programming Languages
+<div align="center">
+    
+|         Programming Languages         |         AI-related Skills         |
+|:-------------------------------------:|:---------------------------------:|
+|                Python                 |               Numpy               |
+|                 Java                  |              Pandas               |
+|              JavaScript               |              OpenCV               |
+|                 Dart                  |               Scipy               |
+|                 C++                   |       TensorFlow and Keras        |
+|    VHDL (Hardware Description)        |               NLTK                |
+| Verilog (Hardware Description)        |              PyTorch              |
+|               Assembly                |                                   |
 
-- Python
-- Java
-- Javascript
-- Dart
-- C++
-- Hardware description languages (VHDL, Verilog, Assembly)
+</div>
 
-AI-related skills
-
-- Numpy
-- Pandas
-- OpenCV
-- Scipy
-- TensorFlow and Keras
-- NLTK
-- PyTorch
 
 
 [comment]: <> (And The other skills:
