@@ -11,7 +11,7 @@ My primary interests are in ``` Natural Language Processing``` and ```Large Lang
 |                Python                 |               Numpy               |
 |                 Java                  |              Pandas               |
 |              JavaScript               |              OpenCV               |
-|                 Dart                  |               Scapy               |
+|                 Dart                  |               Spacy               |
 |                 C++                   |       TensorFlow and Keras        |
 |    VHDL (Hardware Description)        |               NLTK                |
 | Verilog (Hardware Description)        |              PyTorch              |
